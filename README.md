@@ -13,7 +13,10 @@
 - [React](#React)
 
 ## HTML
-todo
+
+**Resources**
+
+- ["test resourse"](https://bulldogjob.pl/articles/539-scalable-angular-application-architecture)
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
