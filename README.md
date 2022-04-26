@@ -2,6 +2,13 @@
 
 <img src="https://miro.medium.com/max/1200/0*HICLyAdNSIyT0ODU.jpg" />
 
+## Inspired from
+
+- https://github.com/kamranahmedse/developer-roadmap
+- https://roadmap.sh/frontend
+- https://roadmap.sh/angular
+- https://roadmap.sh/react
+
 ## Table of Content
 
 - [HTML](#HTML)
