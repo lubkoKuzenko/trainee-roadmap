@@ -10,7 +10,9 @@
 - https://roadmap.sh/react
 
 ## Table of Content
-
+- [Browser engines](#browser-engines)
+- [JavaScript engines](#JavaScript-engines)
+- [HTTP](#HTTP)
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
@@ -18,6 +20,22 @@
 - [Build Tools](#Build-Tools)
 - [Angular](#Angular)
 - [React](#React)
+- [Soft skills](#Soft-skills)
+
+## Browser's engines
+browsers rendering path
+
+<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+
+## JavaScript engines
+V8
+
+<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+
+## HTTP
+HTTP/HTTPS basics, Streams, WebSockets
+
+<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## HTML
 
@@ -31,6 +49,13 @@ https://www.youtube.com/watch?v=N8YMl4Ezp4g&ab_channel=Codevolution
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## CSS
+
+•	CSS Basics  
+•	CSS Layout  
+•	Flex
+•	Responsive Web Design
+•	CSS methodologies  
+•	SCSS  
 
 `flexbox`
 
@@ -52,6 +77,14 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## JavaScript
+
+•	- Basics 
+•	- Data types 
+•	- Functions 
+•	- Classes 
+•	- Error handling 
+•	- Asynchronous javascript 
+•	- DOM 
 
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
 
@@ -129,3 +162,9 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+
+## Soft skills
+
+- Customer Intimacy
+- Feedback giving
+- Scrum 
