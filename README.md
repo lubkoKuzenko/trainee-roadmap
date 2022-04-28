@@ -53,6 +53,8 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
 ## JavaScript
 
+https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
+
 ### Event loop
 
 https://towardsdev.com/event-loop-in-javascript-672c07618dc9
@@ -60,7 +62,9 @@ https://towardsdev.com/event-loop-in-javascript-672c07618dc9
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## TypeScript
-todo
+
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU
+https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSk1pnrKewLklYfCdu9Qjhy
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
@@ -78,9 +82,50 @@ https://www.youtube.com/watch?v=eSaF8NXeNsA
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## Angular
-todo
+
+`angular material`
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU
+
+`ngrx`
+
+https://www.youtube.com/playlist?list=PLW2eQOsUPlWJRfWGOi9gZdc3rE4Fke0Wv
+
+
+`rxjs`
+
+https://www.youtube.com/playlist?list=PLX7eV3JL9sfl8lRNZyzAu8YN-uqrgbhij
+https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
+
+`angular forms`
+
+https://www.youtube.com/playlist?list=PLzAGFfNxKFubQOdaJK3evoEKFuD-nAnkL
+
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## React
-todo
+
+`react context & hooks`
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
+
+`formik`
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu
+
+`redux`
+
+https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
+https://www.youtube.com/playlist?list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW
+
+`react query`
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2
+
+
+`react testing library`
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
+
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
