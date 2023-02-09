@@ -12,7 +12,6 @@
 ## Table of Content
 
 - [How does the browser render a website](#how-does-the-browser-render-a-website)
-- [JavaScript engines](#JavaScript-engines)
 - [HTTP](#HTTP)
 - [HTML](#HTML)
 - [CSS](#CSS)
@@ -30,15 +29,13 @@ https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
-## JavaScript engines
-
-V8
-
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
-
 ## HTTP
 
-HTTP/HTTPS basics, Streams, WebSockets
+https://www.youtube.com/watch?v=iYM2zFP3Zn0&t=442s&ab_channel=TraversyMedia
+
+https://www.youtube.com/watch?v=2JYT5f2isg4&ab_channel=freeCodeCamp.org
+
+https://www.youtube.com/watch?v=ZKEqqIO7n-k&ab_channel=WebDevSimplified
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
