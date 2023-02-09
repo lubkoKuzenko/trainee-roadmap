@@ -173,6 +173,7 @@ Big framework better to start learning from official documentation
 https://angular.io/
 
 `basic`
+
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
 
 `angular material`
