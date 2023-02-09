@@ -11,7 +11,7 @@
 
 ## Table of Content
 
-- [How does the browser render a website](#browser-engines)
+- [How does the browser render a website](#how-does-the-browser-render-a-website)
 - [JavaScript engines](#JavaScript-engines)
 - [HTTP](#HTTP)
 - [HTML](#HTML)
