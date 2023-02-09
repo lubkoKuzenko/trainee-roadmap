@@ -260,11 +260,15 @@ https://www.youtube.com/watch?v=wIY824wWpu4&ab_channel=Ihatetomatoes
 
 https://www.youtube.com/watch?v=CRlGDDprdOQ&ab_channel=Academind
 
+<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+
 ## Soft skills
 
 https://www.youtube.com/watch?v=ll7JyRxWMQY&ab_channel=KnowledgeHutupGrad
 
 https://www.youtube.com/@skillopedia/featured
+
+<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## Youtube channels to subscribe
 
