@@ -41,12 +41,11 @@ https://www.youtube.com/watch?v=ZKEqqIO7n-k&ab_channel=WebDevSimplified
 
 ## HTML
 
-**Resources**
+https://www.youtube.com/watch?v=DPnqb74Smug&ab_channel=freeCodeCamp.org
 
-- ["test resourse"](https://bulldogjob.pl/articles/539-scalable-angular-application-architecture)
-
-https://www.youtube.com/playlist?list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv
 https://www.youtube.com/watch?v=N8YMl4Ezp4g&ab_channel=Codevolution
+
+https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
