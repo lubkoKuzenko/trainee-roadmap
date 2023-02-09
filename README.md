@@ -20,6 +20,7 @@
 - [Build Tools](#Build-Tools)
 - [Angular](#Angular)
 - [React](#React)
+- [Git](#git)
 - [Soft skills](#Soft-skills)
 - [Youtube channels to subscribe](#Youtube-channels-to-subscribe)
 
@@ -246,6 +247,18 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+
+## Git
+
+https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele
+
+https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh
+
+https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org
+
+https://www.youtube.com/watch?v=wIY824wWpu4&ab_channel=Ihatetomatoes
+
+https://www.youtube.com/watch?v=CRlGDDprdOQ&ab_channel=Academind
 
 ## Soft skills
 
