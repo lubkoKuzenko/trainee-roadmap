@@ -225,10 +225,17 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 ## Youtube channels to subscribe
 
 https://www.youtube.com/@WebDevSimplified
+
 https://www.youtube.com/@DecodedFrontend
+
 https://www.youtube.com/@CodeShotsWithProfanis
+
 https://www.youtube.com/@NetNinja
+
 https://www.youtube.com/@JoshuaMorony
+
 https://www.youtube.com/@DreyLikyDev
+
 https://www.youtube.com/@Codevolution
+
 https://www.youtube.com/@CoderOne
