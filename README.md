@@ -39,6 +39,10 @@ https://www.youtube.com/watch?v=2JYT5f2isg4&ab_channel=freeCodeCamp.org
 
 https://www.youtube.com/watch?v=ZKEqqIO7n-k&ab_channel=WebDevSimplified
 
+`CORS`
+
+https://www.youtube.com/watch?v=PNtFSVU-YTI&ab_channel=WebDevSimplified
+
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## HTML
