@@ -51,20 +51,34 @@ https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en
 
 ## CSS
 
-• CSS Basics  
-• CSS Layout  
-• Flex
-• Responsive Web Design
-• CSS methodologies  
-• SCSS
+https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit&ab_channel=DaveGray
+
+https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org
+
+https://www.youtube.com/watch?v=MNPdifWAAa4&ab_channel=DaveGray
+
+`Responsive Web Design Tutorials`
+
+https://www.youtube.com/watch?v=srvUrASNj0s&ab_channel=freeCodeCamp.org
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw
+
+`CSS Positioning Tutorials`
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh
+
+`SCSS`
+
+https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&ab_channel=TheNetNinja
 
 `flexbox`
 
-https://www.youtube.com/watch?v=XXlw7TUxRVY&ab_channel=webDev
+https://www.youtube.com/watch?v=3YW65K6LcIA&ab_channel=TraversyMedia
 
 `tailwind`
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+
 https://www.youtube.com/watch?v=lZp4salRFFc&ab_channel=DailyTuition
 
 `bulma`
