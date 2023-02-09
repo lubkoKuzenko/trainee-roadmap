@@ -10,7 +10,8 @@
 - https://roadmap.sh/react
 
 ## Table of Content
-- [Browser engines](#browser-engines)
+
+- [How does the browser render a website](#browser-engines)
 - [JavaScript engines](#JavaScript-engines)
 - [HTTP](#HTTP)
 - [HTML](#HTML)
@@ -22,17 +23,21 @@
 - [React](#React)
 - [Soft skills](#Soft-skills)
 
-## Browser's engines
-browsers rendering path
+## How does the browser render a website
+
+https://www.youtube.com/watch?v=hJHvdBlSxug&ab_channel=Academind
+https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## JavaScript engines
+
 V8
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## HTTP
+
 HTTP/HTTPS basics, Streams, WebSockets
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
@@ -50,18 +55,18 @@ https://www.youtube.com/watch?v=N8YMl4Ezp4g&ab_channel=Codevolution
 
 ## CSS
 
-•	CSS Basics  
-•	CSS Layout  
-•	Flex
-•	Responsive Web Design
-•	CSS methodologies  
-•	SCSS  
+• CSS Basics  
+• CSS Layout  
+• Flex
+• Responsive Web Design
+• CSS methodologies  
+• SCSS
 
 `flexbox`
 
 https://www.youtube.com/watch?v=XXlw7TUxRVY&ab_channel=webDev
 
-`tailwind` 
+`tailwind`
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 https://www.youtube.com/watch?v=lZp4salRFFc&ab_channel=DailyTuition
@@ -78,13 +83,13 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
 ## JavaScript
 
-•	- Basics 
-•	- Data types 
-•	- Functions 
-•	- Classes 
-•	- Error handling 
-•	- Asynchronous javascript 
-•	- DOM 
+• - Basics
+• - Data types
+• - Functions
+• - Classes
+• - Error handling
+• - Asynchronous javascript
+• - DOM
 
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
 
@@ -124,7 +129,6 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU
 
 https://www.youtube.com/playlist?list=PLW2eQOsUPlWJRfWGOi9gZdc3rE4Fke0Wv
 
-
 `rxjs`
 
 https://www.youtube.com/playlist?list=PLX7eV3JL9sfl8lRNZyzAu8YN-uqrgbhij
@@ -156,7 +160,6 @@ https://www.youtube.com/playlist?list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2
 
-
 `react testing library`
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
@@ -167,4 +170,4 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
 - Customer Intimacy
 - Feedback giving
-- Scrum 
+- Scrum
