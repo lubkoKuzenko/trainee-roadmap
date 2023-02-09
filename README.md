@@ -21,6 +21,7 @@
 - [Angular](#Angular)
 - [React](#React)
 - [Soft skills](#Soft-skills)
+- [Youtube channels to subscribe](#Youtube-channels-to-subscribe)
 
 ## How does the browser render a website
 
@@ -188,6 +189,9 @@ https://www.youtube.com/playlist?list=PLzAGFfNxKFubQOdaJK3evoEKFuD-nAnkL
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
+`React Material UI`
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
+
 `react context & hooks`
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
@@ -217,3 +221,14 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 - Customer Intimacy
 - Feedback giving
 - Scrum
+
+## Youtube channels to subscribe
+
+https://www.youtube.com/@WebDevSimplified
+https://www.youtube.com/@DecodedFrontend
+https://www.youtube.com/@CodeShotsWithProfanis
+https://www.youtube.com/@NetNinja
+https://www.youtube.com/@JoshuaMorony
+https://www.youtube.com/@DreyLikyDev
+https://www.youtube.com/@Codevolution
+https://www.youtube.com/@CoderOne
