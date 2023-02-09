@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org
 
 https://www.youtube.com/watch?v=MNPdifWAAa4&ab_channel=DaveGray
 
+https://www.youtube.com/watch?v=YszONjKpgg4&list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEinL0R
+
 `Responsive Web Design Tutorials`
 
 https://www.youtube.com/watch?v=srvUrASNj0s&ab_channel=freeCodeCamp.org
@@ -140,6 +142,8 @@ https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU
 
 https://www.youtube.com/playlist?list=PLYvdvJlnTOjF6aJsWWAt7kZRJvzw-en8B
 
+https://www.youtube.com/watch?v=jBmrduvKl5w&list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g
+
 `TypeScript Design Patterns`
 
 https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSk1pnrKewLklYfCdu9Qjhy
@@ -164,6 +168,13 @@ https://www.youtube.com/playlist?list=PLB67cosR0_lPUXIK35J8M7EQUbUJQMA0Q
 
 ## Angular
 
+Big framework better to start learning from official documentation
+
+https://angular.io/
+
+`basic`
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+
 `angular material`
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU
@@ -175,36 +186,51 @@ https://www.youtube.com/playlist?list=PLW2eQOsUPlWJRfWGOi9gZdc3rE4Fke0Wv
 `rxjs`
 
 https://www.youtube.com/playlist?list=PLX7eV3JL9sfl8lRNZyzAu8YN-uqrgbhij
+
 https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
 
 `angular forms`
 
 https://www.youtube.com/playlist?list=PLzAGFfNxKFubQOdaJK3evoEKFuD-nAnkL
 
+`Component Interaction`
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgKhaLU8GTyF-5Bb8qT-wzV
+
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## React
+
+Big framework better to start learning from official documentation
+
+https://reactjs.org/
+
+`render`
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t
 
 `react + typescript`
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
 `React Material UI`
+
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
 
 `react context & hooks`
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
 
+https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
+
+https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h
+
 `formik`
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu
 
-`redux`
+`react-hook-form`
 
-https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
-https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
-https://www.youtube.com/playlist?list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW
+https://www.youtube.com/playlist?list=PL03g4H_exuTppOgtY-45oWvN79rvJIKzf
 
 `react query`
 
@@ -213,6 +239,10 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2
 `react testing library`
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
+
+`React Storybook Tutorial`
+
+https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
