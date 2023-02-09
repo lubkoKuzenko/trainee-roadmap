@@ -218,9 +218,9 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
 ## Soft skills
 
-- Customer Intimacy
-- Feedback giving
-- Scrum
+https://www.youtube.com/watch?v=ll7JyRxWMQY&ab_channel=KnowledgeHutupGrad
+
+https://www.youtube.com/@skillopedia/featured
 
 ## Youtube channels to subscribe
 
