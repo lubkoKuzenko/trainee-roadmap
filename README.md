@@ -93,25 +93,46 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
 ## JavaScript
 
-• - Basics
-• - Data types
-• - Functions
-• - Classes
-• - Error handling
-• - Asynchronous javascript
-• - DOM
+https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia
+
+https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ&ab_channel=CoderLipi
+
+https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ
+
+`Object Oriented JavaScript`
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7
+
+`Callbacks, Promises, Async Await`
+
+https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu
+
+`Modular Javascript`
 
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
 
-### Event loop
+`Event loop`
 
 https://towardsdev.com/event-loop-in-javascript-672c07618dc9
+
+`JavaScript Best Practices and Coding Conventions`
+
+https://www.youtube.com/watch?v=RMN_bkZ1KM0&ab_channel=JavaScriptMastery
+
+https://www.youtube.com/playlist?list=PLY5pAT_51eGyo4ixvdZgzY57N0_R1QMtb
+
+https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
+
+https://www.youtube.com/playlist?list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
 
 ## TypeScript
 
 https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU
+
 https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSk1pnrKewLklYfCdu9Qjhy
 
 <img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
