@@ -29,7 +29,7 @@
 https://www.youtube.com/watch?v=hJHvdBlSxug&ab_channel=Academind
 https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## HTTP
 
@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=ZKEqqIO7n-k&ab_channel=WebDevSimplified
 
 https://www.youtube.com/watch?v=PNtFSVU-YTI&ab_channel=WebDevSimplified
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## HTML
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=N8YMl4Ezp4g&ab_channel=Codevolution
 
 https://www.youtube.com/playlist?list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## CSS
 
@@ -97,7 +97,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## JavaScript
 
@@ -135,7 +135,7 @@ https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
 
 https://www.youtube.com/playlist?list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## TypeScript
 
@@ -153,7 +153,7 @@ https://www.youtube.com/watch?v=jBmrduvKl5w&list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgB
 
 https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSk1pnrKewLklYfCdu9Qjhy
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## Build Tools
 
@@ -169,7 +169,7 @@ https://www.youtube.com/watch?v=ByRxp9VlzeI&ab_channel=WebStylePress
 
 https://www.youtube.com/playlist?list=PLB67cosR0_lPUXIK35J8M7EQUbUJQMA0Q
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## Angular
 
@@ -202,7 +202,7 @@ https://www.youtube.com/playlist?list=PLzAGFfNxKFubQOdaJK3evoEKFuD-nAnkL
 `Component Interaction`
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwgKhaLU8GTyF-5Bb8qT-wzV
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## React
 
@@ -250,7 +250,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
 https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## Git
 
@@ -264,7 +264,7 @@ https://www.youtube.com/watch?v=wIY824wWpu4&ab_channel=Ihatetomatoes
 
 https://www.youtube.com/watch?v=CRlGDDprdOQ&ab_channel=Academind
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
 
 ## Soft skills
 
@@ -272,7 +272,21 @@ https://www.youtube.com/watch?v=ll7JyRxWMQY&ab_channel=KnowledgeHutupGrad
 
 https://www.youtube.com/@skillopedia/featured
 
-<img src="https://miro.medium.com/max/700/0*Piks8Tu6xUYpF4DU" width="100%" height="17px" style="padding: 2px 1rem; background-color: #fff">
+---
+
+## Newsletters
+
+https://bytes.dev/
+
+https://react.libhunt.com/
+
+https://react.statuscode.com/
+
+https://javascriptweekly.com/
+
+https://tailwindweekly.com/
+
+https://medium.com/
 
 ## Youtube channels to subscribe
 
