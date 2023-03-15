@@ -246,6 +246,10 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
+`React SOLID Principles`
+
+https://www.youtube.com/watch?v=MSq_DCRxOxw&ab_channel=CoderOne
+
 `React Storybook Tutorial`
 
 https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
