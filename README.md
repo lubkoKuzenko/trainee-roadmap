@@ -218,6 +218,10 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
+`How to Style your React App`
+
+https://www.youtube.com/watch?v=DXikBH-LCF4&ab_channel=EricMurphy
+
 `React Material UI`
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
