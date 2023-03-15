@@ -11,6 +11,7 @@
 
 ## Table of Content
 
+- [Prerequisites](#Prerequisites)
 - [How does the browser render a website](#how-does-the-browser-render-a-website)
 - [HTTP](#HTTP)
 - [HTML](#HTML)
@@ -23,6 +24,13 @@
 - [Git](#git)
 - [Soft skills](#Soft-skills)
 - [Youtube channels to subscribe](#Youtube-channels-to-subscribe)
+
+## Prerequisites
+
+- Minimal level: B1
+- Comfortable level: B2
+
+<img src="./assets/common-european-framework-of-reference-cefr.png" width=100% />
 
 ## How does the browser render a website
 
