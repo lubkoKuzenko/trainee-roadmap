@@ -208,7 +208,7 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwgKhaLU8GTyF-5Bb8qT-wzV
 
 Big framework better to start learning from official documentation
 
-https://reactjs.org/
+https://reactjs.org/docs/getting-started.html
 
 `render`
 
