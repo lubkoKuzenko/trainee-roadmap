@@ -37,6 +37,7 @@
 ## How does the browser render a website
 
 https://www.youtube.com/watch?v=hJHvdBlSxug&ab_channel=Academind
+
 https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
 
 ---
