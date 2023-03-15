@@ -27,6 +27,8 @@
 
 ## Prerequisites
 
+`English`
+
 - Minimal level: B1
 - Comfortable level: B2
 
