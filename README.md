@@ -136,6 +136,8 @@ https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
 
 https://towardsdev.com/event-loop-in-javascript-672c07618dc9
 
+https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf
+
 `JavaScript Best Practices and Coding Conventions`
 
 https://www.youtube.com/watch?v=RMN_bkZ1KM0&ab_channel=JavaScriptMastery
