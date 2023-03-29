@@ -215,6 +215,10 @@ https://www.youtube.com/playlist?list=PLzAGFfNxKFubQOdaJK3evoEKFuD-nAnkL
 `Component Interaction`
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwgKhaLU8GTyF-5Bb8qT-wzV
 
+`SOLID`
+
+https://www.youtube.com/watch?v=Y-MRJ9QYCvI&t=672s&ab_channel=DecodedFrontend
+
 ---
 
 ## React
