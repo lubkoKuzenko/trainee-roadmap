@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=YszONjKpgg4&list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEin
 
 `HTML&CSS: Interactive Courses`
 
-[Freeversity: HTML&CSS Full Course](https://freeveristy.github.io/courses/1)
+[Freeversity: HTML&CSS Full Course](https://freeversity.github.io/courses/1)
 
 `Responsive Web Design Tutorials`
 
