@@ -76,9 +76,9 @@ https://www.youtube.com/watch?v=MNPdifWAAa4&ab_channel=DaveGray
 
 https://www.youtube.com/watch?v=YszONjKpgg4&list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEinL0R
 
-`HTML&CSS: Full Interactive Course`
+`HTML&CSS: Interactive Courses`
 
-[Freeversity](https://freeveristy.github.io)
+[Freeversity: HTML&CSS Full Course](https://freeveristy.github.io/courses/1)
 
 `Responsive Web Design Tutorials`
 
