@@ -78,6 +78,10 @@ https://www.youtube.com/watch?v=MNPdifWAAa4&ab_channel=DaveGray
 
 https://www.youtube.com/watch?v=YszONjKpgg4&list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEinL0R
 
+`HTML&CSS: Interactive Courses`
+
+[Freeversity: HTML&CSS Full Course](https://freeversity.github.io/courses/1)
+
 `Responsive Web Design Tutorials`
 
 https://www.youtube.com/watch?v=srvUrASNj0s&ab_channel=freeCodeCamp.org
