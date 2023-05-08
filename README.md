@@ -36,6 +36,8 @@
 
 ## How does the browser render a website
 
+https://github.com/vasanthk/how-web-works
+
 https://www.youtube.com/watch?v=hJHvdBlSxug&ab_channel=Academind
 
 https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
@@ -301,6 +303,12 @@ https://www.youtube.com/watch?v=CRlGDDprdOQ&ab_channel=Academind
 https://www.youtube.com/watch?v=ll7JyRxWMQY&ab_channel=KnowledgeHutupGrad
 
 https://www.youtube.com/@skillopedia/featured
+
+---
+
+## Reverse interview
+
+https://github.com/viraptor/reverse-interview
 
 ---
 
