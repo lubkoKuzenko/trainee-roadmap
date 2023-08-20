@@ -238,6 +238,10 @@ https://reactjs.org/docs/getting-started.html
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t
 
+`React Router v6`
+
+https://www.youtube.com/watch?v=Ul3y1LXxzdU&ab_channel=WebDevSimplified
+
 `react + typescript`
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
@@ -257,10 +261,6 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
 https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
 
 https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h
-
-`formik`
-
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu
 
 `react-hook-form`
 
@@ -338,7 +338,7 @@ https://www.youtube.com/@DecodedFrontend
 
 https://www.youtube.com/@CodeShotsWithProfanis
 
-https://www.youtube.com/@NetNinja
+https://www.youtube.com/@joshtriedcoding
 
 https://www.youtube.com/@JoshuaMorony
 
