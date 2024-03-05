@@ -288,6 +288,10 @@ https://www.youtube.com/playlist?list=PLgeETUaEEds5HE2uGWezJxYeZwpBonHr-
 
 https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
+`Next.js`
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
+
 ---
 
 ## Git
